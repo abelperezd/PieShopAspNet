@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "uXOus5cBWWfdncLXBLBAswwh0t/1noAqhn690/Gcot9BKJ87vKg+wgqnjVNjZwxmZUE+Z/CPum/L/g37+SmZ8Q==",
+  "dgSpecHash": "tIR3Y5LZO1WqGTz9QzhCmMsUZGhKM1RlUxNOU/bPpKKivUAbb7SargIVjg/WqC29XJOZN2qbFju4UxbsEt+sjw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\apere\\Desktop\\Programming\\PieShop\\PieShop\\PieShop.csproj",
+  "projectFilePath": "C:\\Users\\apere\\Desktop\\Programming\\PieShopAspNet\\PieShop\\PieShop.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\apere\\.nuget\\packages\\azure.core\\1.35.0\\azure.core.1.35.0.nupkg.sha512",
     "C:\\Users\\apere\\.nuget\\packages\\azure.identity\\1.10.3\\azure.identity.1.10.3.nupkg.sha512",

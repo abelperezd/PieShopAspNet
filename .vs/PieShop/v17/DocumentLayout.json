@@ -1,22 +1,14 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\apere\\Desktop\\Programming\\PieShop\\PieShop\\",
+  "WorkspaceRootPath": "C:\\Users\\apere\\Desktop\\Programming\\PieShopAspNet\\PieShop\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{C1DB1F23-1F97-42F2-A3C9-35B9163E79E8}|PieShop.csproj|c:\\users\\apere\\desktop\\programming\\pieshop\\pieshop\\components\\categorymenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C1DB1F23-1F97-42F2-A3C9-35B9163E79E8}|PieShop.csproj|solutionrelative:components\\categorymenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{C1DB1F23-1F97-42F2-A3C9-35B9163E79E8}|PieShop.csproj|c:\\users\\apere\\desktop\\programming\\pieshopaspnet\\pieshop\\views\\order\\checkout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C1DB1F23-1F97-42F2-A3C9-35B9163E79E8}|PieShop.csproj|solutionrelative:views\\order\\checkout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C1DB1F23-1F97-42F2-A3C9-35B9163E79E8}|PieShop.csproj|c:\\users\\apere\\desktop\\programming\\pieshop\\pieshop\\views\\shared\\components\\categorymenu\\default.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{C1DB1F23-1F97-42F2-A3C9-35B9163E79E8}|PieShop.csproj|solutionrelative:views\\shared\\components\\categorymenu\\default.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C1DB1F23-1F97-42F2-A3C9-35B9163E79E8}|PieShop.csproj|c:\\users\\apere\\desktop\\programming\\pieshop\\pieshop\\components\\shoppingcartsummary.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C1DB1F23-1F97-42F2-A3C9-35B9163E79E8}|PieShop.csproj|solutionrelative:components\\shoppingcartsummary.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C1DB1F23-1F97-42F2-A3C9-35B9163E79E8}|PieShop.csproj|c:\\users\\apere\\desktop\\programming\\pieshop\\pieshop\\views\\shared\\components\\shoppingcartsummary\\default.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{C1DB1F23-1F97-42F2-A3C9-35B9163E79E8}|PieShop.csproj|solutionrelative:views\\shared\\components\\shoppingcartsummary\\default.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{C1DB1F23-1F97-42F2-A3C9-35B9163E79E8}|PieShop.csproj|c:\\users\\apere\\desktop\\programming\\pieshopaspnet\\pieshop\\controllers\\ordercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C1DB1F23-1F97-42F2-A3C9-35B9163E79E8}|PieShop.csproj|solutionrelative:controllers\\ordercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -31,53 +23,27 @@
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "Default.cshtml",
-              "DocumentMoniker": "C:\\Users\\apere\\Desktop\\Programming\\PieShop\\PieShop\\Views\\Shared\\Components\\CategoryMenu\\Default.cshtml",
-              "RelativeDocumentMoniker": "Views\\Shared\\Components\\CategoryMenu\\Default.cshtml",
-              "ToolTip": "C:\\Users\\apere\\Desktop\\Programming\\PieShop\\PieShop\\Views\\Shared\\Components\\CategoryMenu\\Default.cshtml",
-              "RelativeToolTip": "Views\\Shared\\Components\\CategoryMenu\\Default.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-05-18T15:01:42.235Z",
+              "Title": "OrderController.cs",
+              "DocumentMoniker": "C:\\Users\\apere\\Desktop\\Programming\\PieShopAspNet\\PieShop\\Controllers\\OrderController.cs",
+              "RelativeDocumentMoniker": "Controllers\\OrderController.cs",
+              "ToolTip": "C:\\Users\\apere\\Desktop\\Programming\\PieShopAspNet\\PieShop\\Controllers\\OrderController.cs",
+              "RelativeToolTip": "Controllers\\OrderController.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAQwBYAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-19T13:41:47.453Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "CategoryMenu.cs",
-              "DocumentMoniker": "C:\\Users\\apere\\Desktop\\Programming\\PieShop\\PieShop\\Components\\CategoryMenu.cs",
-              "RelativeDocumentMoniker": "Components\\CategoryMenu.cs",
-              "ToolTip": "C:\\Users\\apere\\Desktop\\Programming\\PieShop\\PieShop\\Components\\CategoryMenu.cs",
-              "RelativeToolTip": "Components\\CategoryMenu.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAMAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-18T15:01:34.952Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "ShoppingCartSummary.cs",
-              "DocumentMoniker": "C:\\Users\\apere\\Desktop\\Programming\\PieShop\\PieShop\\Components\\ShoppingCartSummary.cs",
-              "RelativeDocumentMoniker": "Components\\ShoppingCartSummary.cs",
-              "ToolTip": "C:\\Users\\apere\\Desktop\\Programming\\PieShop\\PieShop\\Components\\ShoppingCartSummary.cs",
-              "RelativeToolTip": "Components\\ShoppingCartSummary.cs",
-              "ViewState": "AQIAAAYAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-18T14:59:45.578Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Default.cshtml",
-              "DocumentMoniker": "C:\\Users\\apere\\Desktop\\Programming\\PieShop\\PieShop\\Views\\Shared\\Components\\ShoppingCartSummary\\Default.cshtml",
-              "RelativeDocumentMoniker": "Views\\Shared\\Components\\ShoppingCartSummary\\Default.cshtml",
-              "ToolTip": "C:\\Users\\apere\\Desktop\\Programming\\PieShop\\PieShop\\Views\\Shared\\Components\\ShoppingCartSummary\\Default.cshtml",
-              "RelativeToolTip": "Views\\Shared\\Components\\ShoppingCartSummary\\Default.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Title": "Checkout.cshtml",
+              "DocumentMoniker": "C:\\Users\\apere\\Desktop\\Programming\\PieShopAspNet\\PieShop\\Views\\Order\\Checkout.cshtml",
+              "RelativeDocumentMoniker": "Views\\Order\\Checkout.cshtml",
+              "ToolTip": "C:\\Users\\apere\\Desktop\\Programming\\PieShopAspNet\\PieShop\\Views\\Order\\Checkout.cshtml",
+              "RelativeToolTip": "Views\\Order\\Checkout.cshtml",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABsAAAASAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-05-18T14:59:30.846Z",
+              "WhenOpened": "2024-05-19T13:41:05.033Z",
               "EditorCaption": ""
             }
           ]

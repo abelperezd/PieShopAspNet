@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\apere\\Desktop\\Programming\\PieShop\\PieShop\\PieShop.csproj": {}
+    "C:\\Users\\apere\\Desktop\\Programming\\PieShopAspNet\\PieShop\\PieShop.csproj": {}
   },
   "projects": {
-    "C:\\Users\\apere\\Desktop\\Programming\\PieShop\\PieShop\\PieShop.csproj": {
+    "C:\\Users\\apere\\Desktop\\Programming\\PieShopAspNet\\PieShop\\PieShop.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\apere\\Desktop\\Programming\\PieShop\\PieShop\\PieShop.csproj",
+        "projectUniqueName": "C:\\Users\\apere\\Desktop\\Programming\\PieShopAspNet\\PieShop\\PieShop.csproj",
         "projectName": "PieShop",
-        "projectPath": "C:\\Users\\apere\\Desktop\\Programming\\PieShop\\PieShop\\PieShop.csproj",
+        "projectPath": "C:\\Users\\apere\\Desktop\\Programming\\PieShopAspNet\\PieShop\\PieShop.csproj",
         "packagesPath": "C:\\Users\\apere\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\apere\\Desktop\\Programming\\PieShop\\PieShop\\obj\\",
+        "outputPath": "C:\\Users\\apere\\Desktop\\Programming\\PieShopAspNet\\PieShop\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
