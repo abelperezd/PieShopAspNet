@@ -1,12 +1,36 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "C:\\Users\\apere\\Desktop\\Programming\\PieShopAspNet\\PieShop\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E9C161B1-D75A-47A0-81EE-360A59C39838}|..\\PieShopTest\\PieShopTest.csproj|c:\\users\\apere\\desktop\\programming\\pieshopaspnet\\pieshoptest\\taghelpers\\emailtaghelpertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
       "VerticalTabListWidth": 256,
-      "DocumentGroups": []
+      "DocumentGroups": [
+        {
+          "DockedWidth": 210,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "EmailTagHelperTests.cs",
+              "DocumentMoniker": "C:\\Users\\apere\\Desktop\\Programming\\PieShopAspNet\\PieShopTest\\TagHelpers\\EmailTagHelperTests.cs",
+              "RelativeDocumentMoniker": "..\\PieShopTest\\TagHelpers\\EmailTagHelperTests.cs",
+              "ToolTip": "C:\\Users\\apere\\Desktop\\Programming\\PieShopAspNet\\PieShopTest\\TagHelpers\\EmailTagHelperTests.cs",
+              "RelativeToolTip": "..\\PieShopTest\\TagHelpers\\EmailTagHelperTests.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABEAAAA+AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-20T17:27:27.563Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
     }
   ]
 }
