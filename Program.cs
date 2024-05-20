@@ -19,6 +19,8 @@ builder.Services.AddDbContext<PieShopDbContext>(options => {
 		builder.Configuration["ConnectionStrings:PieShopDbContextConnection"]);
 });
 
+//This indicates that we are going to work with Razor PAges
+builder.Services.AddRazorPages();
 //This indicates that we are going to work with MVC
 builder.Services.AddControllersWithViews();
 
@@ -47,6 +49,9 @@ app.MapControllerRoute(
 	pattern: "{controller=Home}/{action=Index}/{id?}" // "{controller=Home}/{action=Index}/{id:int?}"
 	);
 */
+
+//enables razor pages model
+app.MapRazorPages();
 //Seed the DB if it is empty
 DbInitializer.Seed(app);
 

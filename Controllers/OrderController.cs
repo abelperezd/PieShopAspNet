@@ -19,6 +19,7 @@ namespace PieShop.Controllers
             return View();
         }
 
+        //model binding allows us to pass the Order as parameter (it comes from a form)
         [HttpPost]
         public IActionResult Checkout(Order order)
         {
