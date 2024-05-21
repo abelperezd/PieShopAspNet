@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "uMLwEinnC58JbioPrTIwfqJZmbzYQHj84JBvK6To9mY=",
+  "Hash": "v9nQZT4O66OxOTX5KNYztHREwQpQwmlHoTVYKJ9rV54=",
   "Source": "PieShop",
   "BasePath": "_content/PieShop",
   "Mode": "Default",
@@ -16,6 +16,44 @@
     }
   ],
   "Assets": [
+    {
+      "Identity": "C:\\Users\\apere\\Desktop\\Programming\\PieShopAspNet\\PieShop\\obj\\Debug\\net8.0\\scopedcss\\bundle\\PieShop.styles.css",
+      "SourceId": "PieShop",
+      "SourceType": "Computed",
+      "ContentRoot": "C:\\Users\\apere\\Desktop\\Programming\\PieShopAspNet\\PieShop\\obj\\Debug\\net8.0\\scopedcss\\bundle\\",
+      "BasePath": "_content/PieShop",
+      "RelativePath": "PieShop.styles.css",
+      "AssetKind": "All",
+      "AssetMode": "CurrentProject",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "ScopedCss",
+      "AssetTraitValue": "ApplicationBundle",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "C:\\Users\\apere\\Desktop\\Programming\\PieShopAspNet\\PieShop\\obj\\Debug\\net8.0\\scopedcss\\bundle\\PieShop.styles.css"
+    },
+    {
+      "Identity": "C:\\Users\\apere\\Desktop\\Programming\\PieShopAspNet\\PieShop\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\PieShop.bundle.scp.css",
+      "SourceId": "PieShop",
+      "SourceType": "Computed",
+      "ContentRoot": "C:\\Users\\apere\\Desktop\\Programming\\PieShopAspNet\\PieShop\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\",
+      "BasePath": "_content/PieShop",
+      "RelativePath": "PieShop.bundle.scp.css",
+      "AssetKind": "All",
+      "AssetMode": "Reference",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "ScopedCss",
+      "AssetTraitValue": "ProjectBundle",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "C:\\Users\\apere\\Desktop\\Programming\\PieShopAspNet\\PieShop\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\PieShop.bundle.scp.css"
+    },
     {
       "Identity": "C:\\Users\\apere\\Desktop\\Programming\\PieShopAspNet\\PieShop\\wwwroot\\css\\site.css",
       "SourceId": "PieShop",

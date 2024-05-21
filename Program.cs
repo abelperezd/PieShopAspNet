@@ -1,5 +1,6 @@
 using Microsoft.EntityFrameworkCore;
 using PieShop.Models;
+using PieShop.App;
 
 var builder = WebApplication.CreateBuilder(args);
 
@@ -19,6 +20,10 @@ builder.Services.AddDbContext<PieShopDbContext>(options =>
     options.UseSqlServer(
         builder.Configuration["ConnectionStrings:PieShopDbContextConnection"]);
 });
+
+
+builder.Services.AddRazorComponents() //to allow us to use Blazor server-side rendering
+    .AddInteractiveServerComponents(); //to bring real-time interactivity from the client
 
 //This would be only needed if we built an ASP.NET Core Api. MVC already includes this
 //builder.Services.AddControllers();
@@ -62,9 +67,16 @@ app.MapControllerRoute(
 //This would be only needed if we built an ASP.NET Core Api. MVC already includes this
 //app.MapControllers();
 
+app.UseAntiforgery();
+
 //enables razor pages model
 app.MapRazorPages();
 //Seed the DB if it is empty
+
+//Allows to map the incoming requests for Blazor
+app.MapRazorComponents<App>()
+    .AddInteractiveServerRenderMode();
+
 DbInitializer.Seed(app);
 
 app.Run();

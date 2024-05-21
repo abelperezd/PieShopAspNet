@@ -269,3 +269,6 @@ C:\Users\apere\Desktop\Programming\PieShopAspNet\PieShop\obj\Debug\net8.0\refint
 C:\Users\apere\Desktop\Programming\PieShopAspNet\PieShop\obj\Debug\net8.0\PieShop.pdb
 C:\Users\apere\Desktop\Programming\PieShopAspNet\PieShop\obj\Debug\net8.0\PieShop.genruntimeconfig.cache
 C:\Users\apere\Desktop\Programming\PieShopAspNet\PieShop\obj\Debug\net8.0\ref\PieShop.dll
+C:\Users\apere\Desktop\Programming\PieShopAspNet\PieShop\obj\Debug\net8.0\scopedcss\App\Layout\MainLayout.razor.rz.scp.css
+C:\Users\apere\Desktop\Programming\PieShopAspNet\PieShop\obj\Debug\net8.0\scopedcss\App\Layout\NavMenu.razor.rz.scp.css
+C:\Users\apere\Desktop\Programming\PieShopAspNet\PieShop\obj\Debug\net8.0\scopedcss\projectbundle\PieShop.bundle.scp.css
