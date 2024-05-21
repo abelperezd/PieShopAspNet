@@ -3,7 +3,28 @@
   "WorkspaceRootPath": "C:\\Users\\apere\\Desktop\\Programming\\PieShopAspNet\\PieShop\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{E9C161B1-D75A-47A0-81EE-360A59C39838}|..\\PieShopTest\\PieShopTest.csproj|c:\\users\\apere\\desktop\\programming\\pieshopaspnet\\pieshoptest\\taghelpers\\emailtaghelpertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{C1DB1F23-1F97-42F2-A3C9-35B9163E79E8}|PieShop.csproj|c:\\users\\apere\\desktop\\programming\\pieshopaspnet\\pieshop\\views\\pie\\search.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C1DB1F23-1F97-42F2-A3C9-35B9163E79E8}|PieShop.csproj|solutionrelative:views\\pie\\search.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C1DB1F23-1F97-42F2-A3C9-35B9163E79E8}|PieShop.csproj|c:\\users\\apere\\desktop\\programming\\pieshopaspnet\\pieshop\\controllers\\piecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C1DB1F23-1F97-42F2-A3C9-35B9163E79E8}|PieShop.csproj|solutionrelative:controllers\\piecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C1DB1F23-1F97-42F2-A3C9-35B9163E79E8}|PieShop.csproj|c:\\users\\apere\\desktop\\programming\\pieshopaspnet\\pieshop\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C1DB1F23-1F97-42F2-A3C9-35B9163E79E8}|PieShop.csproj|solutionrelative:views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C1DB1F23-1F97-42F2-A3C9-35B9163E79E8}|PieShop.csproj|c:\\users\\apere\\desktop\\programming\\pieshopaspnet\\pieshop\\controllers\\api\\searchcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C1DB1F23-1F97-42F2-A3C9-35B9163E79E8}|PieShop.csproj|solutionrelative:controllers\\api\\searchcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C1DB1F23-1F97-42F2-A3C9-35B9163E79E8}|PieShop.csproj|c:\\users\\apere\\desktop\\programming\\pieshopaspnet\\pieshop\\models\\pierepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C1DB1F23-1F97-42F2-A3C9-35B9163E79E8}|PieShop.csproj|solutionrelative:models\\pierepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C1DB1F23-1F97-42F2-A3C9-35B9163E79E8}|PieShop.csproj|c:\\users\\apere\\desktop\\programming\\pieshopaspnet\\pieshop\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C1DB1F23-1F97-42F2-A3C9-35B9163E79E8}|PieShop.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -13,20 +34,83 @@
       "DocumentGroups": [
         {
           "DockedWidth": 210,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "EmailTagHelperTests.cs",
-              "DocumentMoniker": "C:\\Users\\apere\\Desktop\\Programming\\PieShopAspNet\\PieShopTest\\TagHelpers\\EmailTagHelperTests.cs",
-              "RelativeDocumentMoniker": "..\\PieShopTest\\TagHelpers\\EmailTagHelperTests.cs",
-              "ToolTip": "C:\\Users\\apere\\Desktop\\Programming\\PieShopAspNet\\PieShopTest\\TagHelpers\\EmailTagHelperTests.cs",
-              "RelativeToolTip": "..\\PieShopTest\\TagHelpers\\EmailTagHelperTests.cs",
-              "ViewState": "AQIAAAYAAAAAAAAAAAAAABEAAAA+AAAA",
+              "DocumentIndex": 1,
+              "Title": "PieController.cs",
+              "DocumentMoniker": "C:\\Users\\apere\\Desktop\\Programming\\PieShopAspNet\\PieShop\\Controllers\\PieController.cs",
+              "RelativeDocumentMoniker": "Controllers\\PieController.cs",
+              "ToolTip": "C:\\Users\\apere\\Desktop\\Programming\\PieShopAspNet\\PieShop\\Controllers\\PieController.cs",
+              "RelativeToolTip": "Controllers\\PieController.cs",
+              "ViewState": "AQIAAB4AAAAAAAAAAAAYwDwAAAAcAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-20T17:27:27.563Z",
+              "WhenOpened": "2024-05-21T18:02:33.403Z",
               "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Search.cshtml",
+              "DocumentMoniker": "C:\\Users\\apere\\Desktop\\Programming\\PieShopAspNet\\PieShop\\Views\\Pie\\Search.cshtml",
+              "RelativeDocumentMoniker": "Views\\Pie\\Search.cshtml",
+              "ToolTip": "C:\\Users\\apere\\Desktop\\Programming\\PieShopAspNet\\PieShop\\Views\\Pie\\Search.cshtml",
+              "RelativeToolTip": "Views\\Pie\\Search.cshtml",
+              "ViewState": "AQIAABsAAAAAAAAAAAAAAC8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-21T18:02:27.006Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\apere\\Desktop\\Programming\\PieShopAspNet\\PieShop\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\apere\\Desktop\\Programming\\PieShopAspNet\\PieShop\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAABgAAAAAAAAAAAAAADMAAABEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-21T17:55:46.233Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "PieRepository.cs",
+              "DocumentMoniker": "C:\\Users\\apere\\Desktop\\Programming\\PieShopAspNet\\PieShop\\Models\\PieRepository.cs",
+              "RelativeDocumentMoniker": "Models\\PieRepository.cs",
+              "ToolTip": "C:\\Users\\apere\\Desktop\\Programming\\PieShopAspNet\\PieShop\\Models\\PieRepository.cs",
+              "RelativeToolTip": "Models\\PieRepository.cs",
+              "ViewState": "AQIAABUAAAAAAAAAAAAYwCMAAAA3AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-20T19:41:31.66Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "SearchController.cs",
+              "DocumentMoniker": "C:\\Users\\apere\\Desktop\\Programming\\PieShopAspNet\\PieShop\\Controllers\\Api\\SearchController.cs",
+              "RelativeDocumentMoniker": "Controllers\\Api\\SearchController.cs",
+              "ToolTip": "C:\\Users\\apere\\Desktop\\Programming\\PieShopAspNet\\PieShop\\Controllers\\Api\\SearchController.cs",
+              "RelativeToolTip": "Controllers\\Api\\SearchController.cs",
+              "ViewState": "AQIAACEAAAAAAAAAAAAkwCYAAABZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-20T18:14:52.631Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\apere\\Desktop\\Programming\\PieShopAspNet\\PieShop\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\apere\\Desktop\\Programming\\PieShopAspNet\\PieShop\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAA4AAAAAAAAAAADgvyAAAAB6AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-20T18:01:42.73Z"
             }
           ]
         }

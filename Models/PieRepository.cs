@@ -35,7 +35,7 @@ namespace PieShop.Models
 
         public IEnumerable<Pie> SearchPies(string searchQuery)
         {
-            throw new NotImplementedException();
+            return _pieShopDbContext.Pies.Where(p => p.Name.Contains(searchQuery));
         }
     }
 }
